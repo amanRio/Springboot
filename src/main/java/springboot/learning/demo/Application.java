@@ -14,7 +14,7 @@ public class Application {
 	}
    @GetMapping("api/ben")
    public String test(){
-        return("hellow world amanuel dess");
+        return("hellow world amanuel dess and it is fucked up");
    }
 }
 
